@@ -1,2 +1,7 @@
+
 puts "first_number:"
-num1 =
+num1 = gets.chomp().to_f
+puts "enter operator:"
+op = gets.chomp()
+puts "Enter second number:"
+num2 = gets.chomp()
